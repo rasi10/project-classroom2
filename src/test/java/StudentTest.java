@@ -111,15 +111,6 @@ public class StudentTest {
 		//System.out.println(s.toString());
 		String expected2 = "The student has cleared the course";
 		assertEquals(s.toString().contains(expected2),true);
-		
-		
-		
-		
 	}
-	
-	
-	
-	
-	
 
 }
